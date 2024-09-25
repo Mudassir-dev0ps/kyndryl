@@ -1,5 +1,5 @@
 pipeline {
-       
+
         stages {
                 stage('build') {
                         steps {
@@ -22,5 +22,5 @@ pipeline {
                 
                      }
 
-                            }
+        
        }
